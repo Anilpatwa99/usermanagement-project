@@ -57,7 +57,7 @@ Now open your browser at `http://localhost:5173`
 
 **Anil Patwa**  
 GitHub: [@Anilpatwa99](https://github.com/Anilpatwa99)  
-Email: anilpatwa99@example.com
+Email: anilpatwa9664@gmail.com
 
 ---
 
