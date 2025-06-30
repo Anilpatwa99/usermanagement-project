@@ -1,7 +1,7 @@
 // 📁 src/pages/UserManagement.jsx
 import React, { useState } from "react";
 import { useSelector, useDispatch } from "react-redux";
-import { updateUser } from "../redux/userSlice";
+import { updateUser } from "../redux/UserSlice";
 
 import UserTable from "../components/UserTable";
 import UserDetails from "../components/UserDetails";
