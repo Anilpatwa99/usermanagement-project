@@ -47,7 +47,7 @@ Now open your browser at `http://localhost:5173`
 
 ##  Live Demo
 
-🔗 [Click to open deployed app](https://your-vercel-link.vercel.app)
+🔗 [Click to open deployed app](https://usermanagement-project-btnl.vercel.app/)
 
 ---
 
